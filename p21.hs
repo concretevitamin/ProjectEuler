@@ -10,3 +10,6 @@ amicable x =
         False -> x == (d $ d x)
 
 ans = sum amicableList
+
+main = do
+    putStrLn $ show ans

@@ -1,2 +1,4 @@
 prob/
 *.swp
+*.o
+*.hi
